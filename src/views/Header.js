@@ -19,16 +19,6 @@ const Button = styled.button`
 
 `
 
-const axios = require('axios');
-
-axios({
-    method:'get',
-    url:'http://bit.ly/2mTM3nY',
-    responseType:'stream'
-}).then(function (response){
-    console.log(response);
-});
-
 class Header extends Component{
     render(){
         return (
