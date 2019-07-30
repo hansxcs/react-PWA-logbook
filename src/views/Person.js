@@ -7,6 +7,7 @@ export default class Person extends React.Component {
     };
 
     getPerson = async () =>{
+<<<<<<< HEAD
         await axios.get(`https://jsonplaceholder.typicode.com/users`)
             .then(res => {
                 console.log(res);
@@ -14,6 +15,15 @@ export default class Person extends React.Component {
                     persons: res.data
                 });
             });
+=======
+        // await axios.get(`https://jsonplaceholder.typicode.com/users`)
+        //     .then(res => {
+        //         console.log(res);
+        //         this.setState({
+        //             persons: res.data
+        //         });
+        //     });
+>>>>>>> 56d6e3bc9e3a5c4d2e6272aa12da91c006fdf253
         
     }
 
