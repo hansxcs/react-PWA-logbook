@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route} from "react-router-dom";
-import Header from '../views/Header';
+import Login from '../views/Login';
+import List from '../views/List';
 
 // function Home() {
 //     return <h2>Home</h2>;
@@ -9,9 +10,8 @@ import Header from '../views/Header';
 function router(){
     return(
         <Router>
-            {/* <Header /> */}
-            <Route path="/" component={Header} />
-            {/* <Route path="/home" component={home} /> */}
+            <Route exact path="/" component={Login} />
+            <Route path="/list" component={List} />
             {/* <Route path="/:user" component={User} /> */}
         </Router> 
     );

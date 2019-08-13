@@ -1,0 +1,3730 @@
+{
+    "February": [
+        {
+            "date": "04-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Briefing",
+            "description": "Briefing and get laptop",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498a8f0-3ef2-11e9-8796-e5ecabdae99b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Rejected by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498b600-3ef2-11e9-aed8-2f890f16135d/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 101",
+            "description": "Training",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498c150-3ef2-11e9-9c3a-393f4dae45fa/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 101",
+            "description": "Training and get small project",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498cc10-3ef2-11e9-8778-c1954ab1d20b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 101",
+            "description": "Training and get small project",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498d600-3ef2-11e9-b4eb-5b25231fad70/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498df60-3ef2-11e9-bfa7-9344e6b435c1/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498eb00-3ef2-11e9-9e24-17ffbb7b2c5c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 102",
+            "description": "Get a Bigger project with team (3 person)",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498f5c0-3ef2-11e9-8784-a145eb4c0d8c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 102",
+            "description": "Project team",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7498ff20-3ef2-11e9-bcb1-39ce2103f63b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 102",
+            "description": "Project Team",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74990880-3ef2-11e9-b3c6-f3cf9ee72466/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 102",
+            "description": "Project Team",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74991690-3ef2-11e9-8f68-05dd5cbd76ca/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Node JS and React JS 102",
+            "description": "Project Team",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74992160-3ef2-11e9-a12f-8dd0252fde8e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74992ad0-3ef2-11e9-9437-c3e41b17f41a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74993520-3ef2-11e9-a637-035a7f3d4a52/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74994240-3ef2-11e9-983c-7fb4613a8388/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74994c10-3ef2-11e9-94de-510dce883713/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/749955b0-3ef2-11e9-a240-8569c0fde4b9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/749962b0-3ef2-11e9-a2ed-4f72b242cf49/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74996dc0-3ef2-11e9-b1b4-679ad01f8602/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74997720-3ef2-11e9-bb5c-1f31ea12776c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-02-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74998310-3ef2-11e9-b387-1f613f354089/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74999070-3ef2-11e9-b18b-dd6faaf7fb72/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/74999a30-3ef2-11e9-a9d0-93fdaf29013e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7499a3a0-3ef2-11e9-9fcd-9598fd9c55b1/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-02-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/7499af20-3ef2-11e9-9346-97bb7d774c03/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ],
+    "March": [
+        {
+            "date": "01-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Tokopedia VCC and Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748b4970-3ef2-11e9-8b43-499bdeb5d359/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "02-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748b6230-3ef2-11e9-8356-df2b643f5d2b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "03-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748b6d40-3ef2-11e9-bf5f-873728304de0/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "04-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "- Sync Tokopedia and ovo Reason \n- Add API to get Field by request per array of user \n- Add Column VCC Migration",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748b80a0-3ef2-11e9-9931-f53d3aa09414/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "- Sync Tokopedia and ovo Reason\n- Add API to get Field by request per array of user\n- Add Column VCC Migration",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748b8e50-3ef2-11e9-8f98-e3cb71f322db/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Create API for DAX Lending - Dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748b9960-3ef2-11e9-ba1d-613de34f47a9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Create API for DAX Lending - Dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748ba540-3ef2-11e9-ae52-b7338c7290b0/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "Create API for DAX Lending - Dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748bafd0-3ef2-11e9-96d4-157e13c6e9b3/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748bb940-3ef2-11e9-9f04-bd00eef55bcb/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748bc2c0-3ef2-11e9-b40d-8bc98c58a800/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "- Dax Internal Dashboard\n- Sync Tokopedia Reason\n- Create new function for upload to Alibaba cloud without create any temporary file using buffer data type",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748bce70-3ef2-11e9-bc0d-9fa82ae2b5ee/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "- Internal Dashboard Dax",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748bd8c0-3ef2-11e9-a851-df534be97312/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Dax Development",
+            "description": "DAX Internal Dashboard:\n\nChange return data at Get Application\nChange Params to ApplicationId From LoanId in => Personal Information, Loan Detail, Transaction History, Repayment History\nCreate application history status update for dax and add colum reason in application\nAdd Incorrect Selfie Photo reject reason in tokopedia sync reason constant",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748be200-3ef2-11e9-8fe3-37dfea3ae34b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Dax Internal Dashboard and Cron Intellix.",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748beda0-3ef2-11e9-ad46-293a1a071f5d/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c0730-3ef2-11e9-8e67-ad8a43d28a53/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c11b0-3ef2-11e9-9f2a-4b3cd318d766/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c1dd0-3ef2-11e9-9771-e3cfaa05b837/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c2860-3ef2-11e9-a18f-df70c850a659/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c3220-3ef2-11e9-a2da-897a88a04399/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "- Notification push to driver\n- Internal Dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c3ca0-3ef2-11e9-b550-d7b451778451/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "- Internal dashboard\n- push notification to grab driver\n- integrate storage aliyun (alibaba) to post and get document (ktp, selfie, etc.)\netc.",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c4a80-3ef2-11e9-b253-c3a67f98824c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c55f0-3ef2-11e9-bb65-ad51912c934e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c6110-3ef2-11e9-b8da-b14d83027fd8/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c6ca0-3ef2-11e9-85af-8b2698be8c39/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c7700-3ef2-11e9-b60a-1bce290f6cdf/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c8090-3ef2-11e9-9011-f18cc9e3064a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c8c50-3ef2-11e9-a40c-c9ac83520987/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748c9730-3ef2-11e9-9feb-2febe99f073b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "29-03-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748ca090-3ef2-11e9-b148-1f804d114200/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "30-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748ca9a0-3ef2-11e9-9278-e3a1cecf3e11/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "31-03-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/748cb5c0-3ef2-11e9-a6e4-a58fbec17752/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ],
+    "April": [
+        {
+            "date": "01-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df46670-5467-11e9-ac67-3d885da21a36/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "02-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab  Dax Development",
+            "description": "Tokopedia VCC and Grab  Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df47340-5467-11e9-a20e-c3a7fe5f81e9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "03-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Rejected by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df48050-5467-11e9-a470-e9a8187c08b3/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "04-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development\nRefactor Internal Dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df48a70-5467-11e9-9735-a550c1210c56/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df49450-5467-11e9-be00-73deb5c9ffb7/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df49e20-5467-11e9-a914-99580dec4ed1/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4a9c0-5467-11e9-b3f4-0ffed92fc5df/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4b450-5467-11e9-ae72-b30ca91fe751/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4bf70-5467-11e9-b62c-81dacf1e8fa9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4c980-5467-11e9-84b1-939774eed232/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4d400-5467-11e9-a68c-29011c504b64/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4dda0-5467-11e9-a7f9-797d8e989c07/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4e780-5467-11e9-9f87-b9b5bf1d1da4/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4f250-5467-11e9-8865-2189c87f990a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Create unit test",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df4fde0-5467-11e9-ae37-0ff97400f172/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df50960-5467-11e9-ac4a-5bf6933366f5/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF - PEMILU",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df51590-5467-11e9-be70-61fdd53d8d74/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Rejected by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df52230-5467-11e9-bca7-17b5b8854692/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-04-2019",
+            "clock_in": "OFF - Paskah",
+            "clock_out": "OFF - Paskah",
+            "activity": "OFF - Paskah",
+            "description": "OFF - Paskah",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df52cb0-5467-11e9-aab4-73353fa8ca91/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df53540-5467-11e9-9075-b783abd60a51/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df53c70-5467-11e9-982d-0f216808905e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df54470-5467-11e9-9c4e-c5ef26c33f8d/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC And Grab DAX Development",
+            "description": "Tokopedia VCC And Grab DAX Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df54a80-5467-11e9-9dc2-31619f287f0c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokipedia VCC and Grab DAX Development",
+            "description": "Tokipedia VCC and Grab DAX Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df55480-5467-11e9-b917-c31d73fef585/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df55ef0-5467-11e9-a8dc-3915051dc5df/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab DAX Development",
+            "description": "Tokopedia VCC and Grab DAX Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df566a0-5467-11e9-bc57-c9e63f3c7715/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df56d20-5467-11e9-8af7-173224d201af/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-04-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df57620-5467-11e9-9430-034b02d3b6ab/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "29-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab Dax Development",
+            "description": "Tokopedia VCC and Grab Dax Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df58020-5467-11e9-a09c-7104c4ffa7ff/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "30-04-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC and Grab DAX Development",
+            "description": "Tokopedia VCC and Grab DAX Development",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/3df58b10-5467-11e9-bd4f-c7bddf65817e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ],
+    "May": [
+        {
+            "date": "01-05-2019",
+            "clock_in": "OFF - Hari Buruh",
+            "clock_out": "OFF - Hari Buruh",
+            "activity": "OFF - Hari Buruh",
+            "description": "OFF - Hari Buruh",
+            "status": [
+                "Approved by site supervisor: 2019-05-02",
+                "Approved by university supervisor: 2019-05-05"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371afb0-6c07-11e9-8d15-1b7e47569edc/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "02-05-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC, GRAB DAX, Paylater Ovo Development",
+            "description": "Maintain Tokopedia VCC and GRAB DAX, and still developing paylater ovo internal dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371bfa0-6c07-11e9-b5a4-212c9bd12646/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "03-05-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Tokopedia VCC, GRAB DAX, Paylater Ovo Development",
+            "description": "Maintain Tokopedia VCC and GRAB DAX, and still developing paylater ovo internal dashboard",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371ca60-6c07-11e9-bc68-e1b52bfdfe86/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "04-05-2019",
+            "clock_in": "12:00",
+            "clock_out": "12:00",
+            "activity": "Developing Integration Internal Dashboard",
+            "description": "Preparing for integration internal dashboard for tokopedia vcc, grab dax, and paylater ovo",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371d6c0-6c07-11e9-b420-59239322eb0f/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371e0b0-6c07-11e9-9403-25754ac53791/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371eb20-6c07-11e9-82d5-4db70340ef69/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b371f740-6c07-11e9-8d20-f31374cd82f3/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3720100-6c07-11e9-bb1f-31d2e8247478/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Developmen",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3720b30-6c07-11e9-9dbd-71d3b5500838/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b37214b0-6c07-11e9-bfdd-e708cc1277ef/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3721f40-6c07-11e9-9c32-df263f8e4c5b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b37228c0-6c07-11e9-b2a3-8181099a4137/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3723300-6c07-11e9-bf5b-99214ef5a7d2/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3723c50-6c07-11e9-a956-49da8f7f90bf/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3724780-6c07-11e9-8a3a-8d3e8868fed7/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development",
+            "description": "Paylater Dashboard Development",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3725110-6c07-11e9-8ed1-dd906933cad0/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3725b40-6c07-11e9-9aff-a97c803443aa/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b37264c0-6c07-11e9-a49f-534fa591bb78/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3727130-6c07-11e9-a1e9-fbb214ed899e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3727ad0-6c07-11e9-b824-25a2a86f6a88/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3728520-6c07-11e9-8cd9-89d9d4d881b5/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3728fc0-6c07-11e9-808a-f316db845d9b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b3729a10-6c07-11e9-9ce1-5344ab01119c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372a360-6c07-11e9-ae06-71f63f724a7b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372ad90-6c07-11e9-920e-2bb1dcfec631/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-05-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372b8b0-6c07-11e9-9ac3-85e1ec41a43d/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-05-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372c280-6c07-11e9-99f7-7307593119b3/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372cc70-6c07-11e9-b351-498997e445f9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "29-05-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372d600-6c07-11e9-b2d3-afacc2d2a78f/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "30-05-2019",
+            "clock_in": "OFF - Kenaikan Isa Al Masih",
+            "clock_out": "OFF - Kenaikan Isa Al Masih",
+            "activity": "OFF - Kenaikan Isa Al Masih",
+            "description": "OFF - Kenaikan Isa Al Masih",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372e1c0-6c07-11e9-8e08-9957475ff891/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "31-05-2019",
+            "clock_in": "08:00",
+            "clock_out": "08:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-06-01",
+                "Approved by university supervisor: 2019-06-01"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/b372eb60-6c07-11e9-8087-4beb5754250c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ],
+    "June": [
+        {
+            "date": "01-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf788070-8429-11e9-98b3-f994114f09b2/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "02-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf788e60-8429-11e9-aa9b-4b42e4b72d40/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "03-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf789bc0-8429-11e9-8f81-b5dfdde86ef8/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "04-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78a6c0-8429-11e9-9005-dda185d93c59/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78b090-8429-11e9-a2e0-5db5e6118b6f/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78bc30-8429-11e9-92e7-6f8a726176bd/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78c7c0-8429-11e9-862d-6998f1a1344e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78d270-8429-11e9-bb47-811ce651c09f/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78dc10-8429-11e9-8430-eb0b7dd2b462/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78e820-8429-11e9-8d2e-dbaf2c92c91b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf78f740-8429-11e9-9b96-256379f29b31/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf7902f0-8429-11e9-976a-03406b8e4348/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf790fb0-8429-11e9-a679-e7b4ae0df3c3/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard Development & Underwriting",
+            "description": "Paylater Dashboard Development & Underwriting",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf791ce0-8429-11e9-ab48-ff5c4c83901a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf792850-8429-11e9-ac0c-cdd932827932/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf793470-8429-11e9-8adf-8d9bb3213bf9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf793ec0-8429-11e9-8f99-8bab41958d1a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf794a40-8429-11e9-b41d-953ec02008c8/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf7954d0-8429-11e9-8e52-079f1e2f10ad/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf7960b0-8429-11e9-b44e-a73530a7eaf1/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf796c40-8429-11e9-a098-a99db636afc2/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf7975e0-8429-11e9-b5a1-77395b88aa69/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf798290-8429-11e9-b104-89ceba979fc6/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf798c90-8429-11e9-b04a-9729c88ce802/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf799770-8429-11e9-8eea-674172046c5a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf79a290-8429-11e9-aa0f-a3fbf7030b3a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf79af90-8429-11e9-b6f5-8b6cea45c0df/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-06-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf79ba50-8429-11e9-8276-e18a6817bee9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "29-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf79c440-8429-11e9-8bee-516759759f27/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "30-06-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-07-01",
+                "Approved by university supervisor: 2019-07-04"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/cf79d060-8429-11e9-abde-6b78ee532472/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ],
+    "July": [
+        {
+            "date": "01-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0a61b0-9bf7-11e9-8478-85c41872a921/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "02-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0a71c0-9bf7-11e9-8aa2-3b4481fc40fa/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "03-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0a7cc0-9bf7-11e9-bd18-cff7395be75a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "04-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0a8790-9bf7-11e9-a28d-391d277645f6/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0a9370-9bf7-11e9-9403-c7aef5749e74/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0a9f30-9bf7-11e9-b645-93a58d8380b9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0aa8c0-9bf7-11e9-ab25-d179855409bd/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0ab4e0-9bf7-11e9-a090-73f2d4e23566/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0ac100-9bf7-11e9-a2a9-a1044e46db1a/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0acad0-9bf7-11e9-acf5-33b96ea0efdd/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0ad420-9bf7-11e9-a0ca-657e5c2eb864/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0ae110-9bf7-11e9-8787-231ed7faffba/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0aed00-9bf7-11e9-ba9c-9bc527ffefb9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0af6a0-9bf7-11e9-980a-a50a52505d11/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b0370-9bf7-11e9-8dab-97efa347f920/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b0e80-9bf7-11e9-a823-71ec5df6711b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b1920-9bf7-11e9-ad28-23c00f03f38b/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b2280-9bf7-11e9-ac33-211335f1245e/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b2f10-9bf7-11e9-8e96-99bb4b3457f6/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b3b90-9bf7-11e9-9806-c9241be84e58/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b4550-9bf7-11e9-92ee-c33ce856c591/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b51d0-9bf7-11e9-bc05-39c6de95b24c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b61d0-9bf7-11e9-918a-f983b4c901cd/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b6be0-9bf7-11e9-a252-b93c66195c82/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b7760-9bf7-11e9-b250-7d6e5c9789e8/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b8160-9bf7-11e9-86ec-8f05bc5c7c2c/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b8bb0-9bf7-11e9-b783-b94e4a4adbb2/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-07-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b94f0-9bf7-11e9-ac3f-53f5b21c039d/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "29-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0b9fe0-9bf7-11e9-88b2-87cd25fc60d9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "30-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0ba9c0-9bf7-11e9-90f5-2faf60abaa80/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "31-07-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Approved by site supervisor: 2019-08-02",
+                "Waiting to be Reviewed by university supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/fe0bb450-9bf7-11e9-85aa-133c42297220/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ],
+    "August": [
+        {
+            "date": "01-08-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Paylater Dashboard, Underwriting & LOS",
+            "description": "Paylater Dashboard, Underwriting & LOS",
+            "status": [
+                "Waiting to be Reviewed by site supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/f83f8bd0-b448-11e9-93e9-7b3e788ee8eb/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "02-08-2019",
+            "clock_in": "09:00",
+            "clock_out": "09:00",
+            "activity": "Panel Service, LOS, Tokopedia VCC and Grab DAX",
+            "description": "Panel Service, LOS, Tokopedia VCC and Grab DAX",
+            "status": [
+                "Waiting to be Reviewed by site supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/f83f9b60-b448-11e9-aff3-4f8f2f780e66/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "03-08-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Waiting to be Reviewed by site supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/f83fa7b0-b448-11e9-b25b-07d71be41eca/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "04-08-2019",
+            "clock_in": "OFF",
+            "clock_out": "OFF",
+            "activity": "OFF",
+            "description": "OFF",
+            "status": [
+                "Waiting to be Reviewed by site supervisor"
+            ],
+            "link": "https://industry.socs.binus.ac.id/learning-plan/student/log-book/f83fb1a0-b448-11e9-bfb6-d747d07c48d9/edit",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "05-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "06-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "07-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "08-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "09-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "10-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "11-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "12-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "13-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "14-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "15-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "16-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "17-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "18-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "19-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "20-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "21-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "22-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "23-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "24-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "25-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "26-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "27-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "28-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "29-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        },
+        {
+            "date": "30-08-2019",
+            "clock_in": "",
+            "clock_out": "",
+            "activity": "",
+            "description": "",
+            "status": [
+                "Not Yet"
+            ],
+            "link": "",
+            "request": {
+                "method": "",
+                "link": "",
+                "_token": "",
+                "requested_date": ""
+            }
+        }
+    ]
+}

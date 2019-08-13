@@ -1,17 +1,18 @@
 import React from 'react';
 import './App.css';
 import Router from './route/router';
-import Person from './views/Person';
+
+export const redirect = React.createContext(false);
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="">
         <Router />
-        <Person />
+      
       </header>
     </div>
   );
 }
 
-export default App;
+export default App
